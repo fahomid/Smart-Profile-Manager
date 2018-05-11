@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Profile Manager</string>
+    <string name="status_text">STATUS:</string>
+    <string name="smart_profile_manager_title">SMART PROFILE MANAGER</string>
+</resources>
